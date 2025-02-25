@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francisco\\Desktop\\EjemploGitConsole\\EjemploGitConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68379025-317A-4E63-8CE6-E9A987EFD404}|EjemploGitConsole\\EjemploGitConsole.csproj|c:\\users\\francisco\\desktop\\ejemplogitconsole\\ejemplogitconsole\\ejemplogitconsole\\pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{68379025-317A-4E63-8CE6-E9A987EFD404}|EjemploGitConsole\\EjemploGitConsole.csproj|solutionrelative:ejemplogitconsole\\pagina1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagina1.aspx",
+              "DocumentMoniker": "C:\\Users\\Francisco\\Desktop\\EjemploGitConsole\\EjemploGitConsole\\EjemploGitConsole\\Pagina1.aspx",
+              "RelativeDocumentMoniker": "EjemploGitConsole\\Pagina1.aspx",
+              "ToolTip": "C:\\Users\\Francisco\\Desktop\\EjemploGitConsole\\EjemploGitConsole\\EjemploGitConsole\\Pagina1.aspx",
+              "RelativeToolTip": "EjemploGitConsole\\Pagina1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T19:24:05.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
