@@ -11,6 +11,8 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" Text="Github Commit 1"></asp:Label>
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="Segundo commit"></asp:Label>
         </div>
     </form>
 </body>
